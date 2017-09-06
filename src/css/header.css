@@ -1,0 +1,11 @@
+header {
+  background: #00ff00;
+}
+body {
+  background: #ffff00;
+}
+.div1 {
+  width: 400px;
+  height: 200px;
+  border: 1px solid blue;
+}
